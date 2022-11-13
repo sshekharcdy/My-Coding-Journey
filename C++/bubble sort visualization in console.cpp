@@ -10,6 +10,7 @@ int main()
 		cout << arr[i] << " ";
 	cout << "\n\n";
 
+	
 	for (int i = 0; i < n; i++)
 	{
 		system("color e");
